@@ -1,0 +1,7 @@
+game_items
+
+item_name
+item_type - int
+item_file
+
+
